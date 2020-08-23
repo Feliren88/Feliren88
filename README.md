@@ -1,4 +1,4 @@
-(https://github.com/Feliren88/Feliren88/blob/master/dino.gif)
+[https://github.com/Feliren88/Feliren88/blob/master/dino.gif]
 
 ### Data-geek, generalist and startup enthusiast.
 
