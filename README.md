@@ -1,9 +1,10 @@
+(https://github.com/Feliren88/Feliren88/blob/master/dino.gif)
+
 ### Data-geek, generalist and startup enthusiast.
 
 ### Beginner philosopher.
 
 ### Love hackathons.
-
 
 <!--
 **Feliren88/Feliren88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
