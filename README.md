@@ -1,5 +1,3 @@
-![Feliren's github stats](https://github-readme-stats.vercel.app/api?username=Feliren88&count_private=true&show_icons=true&theme=dracula)
-
 ### Data-geek, generalist and startup enthusiast.
 
 ### Beginner philosopher.
@@ -20,4 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Feliren's github stats](https://github-readme-stats.vercel.app/api?username=Feliren88&count_private=true&show_icons=true&theme=dracula)
+
 -->
