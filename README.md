@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/Feliren88/Feliren88/blob/master/Feliren(1).gif)
+![Alt Text](https://github.com/Feliren88/Feliren88/blob/master/Feliren(2).gif)
 
 ### Data-geek, generalist and startup enthusiast.
 
